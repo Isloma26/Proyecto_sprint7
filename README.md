@@ -14,3 +14,7 @@ Este es un dashboard interactivo construido con **Streamlit**, que analiza un da
 - Pandas
 - Plotly-express
 - Streamlit
+
+Enlace de render.com
+
+https://proyecto-sprint7-xpvs.onrender.com
