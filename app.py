@@ -10,7 +10,7 @@ st.title("📊 Dashboard de Anuncios de Venta de Autos")
 
 # Cargar Dataset
 car_data = pd.read_csv(
-    "/Users/EugenioLopez/WORKSPACE PYTHON/vehicles_env/vehicles_us.csv")  # leer los datos
+    "vehicles_us.csv")  # leer los datos
 
 # rellenar valores nulos en columnas is_4wd
 car_data["is_4wd"] = car_data["is_4wd"].fillna("not 4wd")
